@@ -1,0 +1,5 @@
+NAME=python
+VERSION=2.7.14
+REVISION=1
+SRC=https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tar.xz
+SRCMD5=1f6db41ad91d9eb0a6f0c769b8613c5b
